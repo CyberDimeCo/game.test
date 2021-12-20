@@ -1,0 +1,15 @@
+{
+  "name": "duel",
+  "version": "1.0.0",
+  "description": "easy card game",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Obryvkov <cyberdimeco@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
